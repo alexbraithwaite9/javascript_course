@@ -1,5 +1,5 @@
-// String
-let str = "Hello, World!";
+// string
+let str = "hello, world";
 console.log(str);
 
 // Number
@@ -14,6 +14,6 @@ console.log(isTrue);
 let arr = [1, 2, 3, 4, 5];
 console.log(arr);
 
-// Object
-let obj = { name: "Alice", age: 30 };
+// Object 
+let obj = {name: "Alice", age: 30, gender: "femenine" };
 console.log(obj);
